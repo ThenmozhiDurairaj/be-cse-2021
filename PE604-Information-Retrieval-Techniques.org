@@ -86,14 +86,12 @@ Retrieval -- Online Public Access Catalogs (OPACs).
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques (K3)
-- Identify and design the various components of an Information
-  Retrieval system (K3)
-- Apply machine learning techniques to text classification and
-  clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2)
-- Apply IR evaluation metrics to measure the performance of IR
-  systems (K3).
+- Apply the IR modeling techniques for the document retrieval problem and measure the performance of IR systems by making use of IR evaluation metrics (K3)
+- Construct the basic components of an IR system namely indexing and querying (K3)
+- Explain the searching techniques for IR and Web. (K2)
+- Apply machine learning techniques to text classification and clustering for efficient Information Retrieval (K3)
+- Explain various IR applications (K2).
+
 
 ** TEXT BOOKS
 1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
